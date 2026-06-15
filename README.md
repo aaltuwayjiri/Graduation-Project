@@ -177,15 +177,12 @@ This allows healthcare professionals to understand:
 ## 📂 Repository Structure
 
 ```text
-Early-Diabetes-Prediction-XAI/
+Graduation-Project/
 │
-├── data/
-│   └── dataset.csv
 │
 ├── notebooks/
 │   └── GP_code.ipynb
 │
-├── models/
 │
 ├── results/
 │   ├── shap_global.png
@@ -213,9 +210,9 @@ Early-Diabetes-Prediction-XAI/
 
 ## 👨‍💻 Team Members
 
+* Abdullah Altuwaijri
 * Abdulmajeed Abalkhail
 * Fahad Alharbi
-* Abdullah Altuwaijri
 * Abdulmohsen Aleid
 
 ### Academic Supervisor
